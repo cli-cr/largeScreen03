@@ -1,0 +1,24 @@
+{
+  "name": "usedatav",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@jiaminghi/charts": "^0.2.18",
+    "@jiaminghi/data-view": "^2.10.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.5.1",
+    "element-ui": "^2.15.14",
+    "vue": "^2.6.11",
+    "vue-fullscreen": "^2.6.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.14",
+    "@vue/cli-service": "~4.5.14",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
