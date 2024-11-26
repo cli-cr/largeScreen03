@@ -1,0 +1,2 @@
+# largeScreen03
+该版本参考gitee上的lofTV，弃用datav的大屏容器，因为datav的大屏容器会有些弊端
